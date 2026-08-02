@@ -46,6 +46,15 @@ The dataset contains e-commerce sales information, including:
 - Sorting
 - Custom Columns
 - Data Refresh
+  ## Screenshots
+
+### Power Query Editor
+
+![Power Query Editor](power-query-editor.png)
+
+### Final Table
+
+![Final Table](final-table.png)
 
 ## Author
 
