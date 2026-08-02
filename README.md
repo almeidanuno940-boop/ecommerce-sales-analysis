@@ -56,6 +56,10 @@ The dataset contains e-commerce sales information, including:
 
 ![Final Table](final-table.png)
 
+### Region Summary
+
+![Region Summary](group-by-region.png)
+
 ## Author
 
 Nuno Almeida
