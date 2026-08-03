@@ -38,13 +38,18 @@ The dataset contains e-commerce sales information, including:
 ## Skills Used
 
 - Microsoft Excel
+- Data Aggregation
 - Power Query
 - Data Cleaning
+- Append Queries
+- Merge Queries
+- Group By
 - Data Transformation
 - Data Validation
 - Filtering
 - Sorting
 - Custom Columns
+- Conditional Columns
 - Data Refresh
   ## Screenshots
 
