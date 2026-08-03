@@ -34,6 +34,10 @@ The dataset contains e-commerce sales information, including:
 - Created a custom "Delivery Status" column
 - Loaded transformed data into Excel
 - Configured automatic refresh
+- Created conditional columns
+- Merged region manager table
+- Appended additional orders
+- Created summary tables
 
 ## Skills Used
 
